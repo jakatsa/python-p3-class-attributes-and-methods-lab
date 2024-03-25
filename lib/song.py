@@ -6,7 +6,7 @@ class Song:
     artist_count = {}
     all_songs = []
 
-#functions
+#functionss
     def __init__(self, name, artist, genre):
         self.name = name
         self.artist = artist
